@@ -1,5 +1,4 @@
 # Court_Collusion
-Court Collusion
 Court Collusion is a grand strategy-inspired AI simulation, heavily influenced by games like Crusader Kings III. The project explores how NPCs in grand strategy games could adapt Reinforcement Learning (RL) to optimize their decision-making over time. The game simulates a medieval feudal system, where Knights, Dukes, and a King maneuver through intrigue, resource accumulation, assassinations, and coups to climb the political hierarchy.
 
 While traditional grand strategy AI often follows hardcoded behavior trees, this experiment tests how an RL-driven agent can learn and outperform standard NPCs over time. By introducing a learning agent, the simulation examines whether an AI-controlled knight can develop superior strategies for wealth accumulation, power growth, and political takeovers compared to standard rule-based NPCs.
